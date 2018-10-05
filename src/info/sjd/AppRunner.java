@@ -1,29 +1,39 @@
 package info.sjd;
 
-import java.io.IOException;
+import org.jsoup.Jsoup;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.WebDriver;
+import org.jsoup.nodes.Document;
+import org.jsoup.select.Elements;
 
 import info.sjd.entity.Item;
 import info.sjd.exception.ExceptionSJD;
+import info.sjd.parser.Parser;
 import info.sjd.processor.XMLFileProcessor;
-//import info.sjd.processor.XMLProcessor;;
 
 public class AppRunner {
+	public static void main(String[] args) throws Exception {
 
-	public static void main(String[] args) throws IOException {
-		// String url =
-		// "https://www.amazon.com/LG-gram-Thin-Light-Laptop/dp/B078WRSHV4/ref=sr_1_82_sspa";
-		// System.out.println(XMLProcessor.assembleElement("item", "item info"));
+		// JAXB
+		// e(fx)eclipse 3.0
+		
 
-		Item item = new Item();
-		item.setTitle(
-				"15Z980-U.AAS5U1");
-		item.setDescription(
-				"The updated LG gram arrives with an impressive 15.6” 1080p IPS display and improved 72Wh battery");
-		item.setRating("4.2");
-		item.setPrice("$1,147.00");
-
+		String url = "https://www.amazon.com/STOCK-Office-Inking-Rubber-Stamp/dp/B076P84WGS/ref=olp_product_details?_encoding=UTF8&me=&qid=1538747416&sr=8-2-spons";
+		
+		
+//		Document document = Jsoup.connect(url).get();
+//	//	Item item = new Item();
+//		Elements parsedData;
+//		
+//		
+//		parsedData = document.select("#productDetails_detailBullets_sections1");
+//		
+//		System.out.println(parsedData.text().substring(5, 15));
+		
+		
+		
 		try {
-			XMLFileProcessor.addContentToFile(item);
+			XMLFileProcessor.addContentToFile(Parser.getItemInfo(url));
 		} catch (ExceptionSJD e) {
 			e.printStackTrace();
 		}

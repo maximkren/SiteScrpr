@@ -42,7 +42,7 @@ public class XMLFileProcessor {
 
 			} else {
 
-//-----------------------------
+//---------read existing data----------------
 
 				try (BufferedReader br = new BufferedReader(new FileReader(itemFile))) {
 
@@ -60,7 +60,7 @@ public class XMLFileProcessor {
 
 				}
 
-//------------------------------
+//--------overwrite file----------------------
 
 				try (FileWriter fileWriter = new FileWriter(itemFile)) {
 
