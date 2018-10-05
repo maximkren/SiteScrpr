@@ -14,23 +14,9 @@ import info.sjd.processor.XMLFileProcessor;
 public class AppRunner {
 	public static void main(String[] args) throws Exception {
 
-		// JAXB
-		// e(fx)eclipse 3.0
-		
+
 
 		String url = "https://www.amazon.com/STOCK-Office-Inking-Rubber-Stamp/dp/B076P84WGS/ref=olp_product_details?_encoding=UTF8&me=&qid=1538747416&sr=8-2-spons";
-		
-		
-//		Document document = Jsoup.connect(url).get();
-//	//	Item item = new Item();
-//		Elements parsedData;
-//		
-//		
-//		parsedData = document.select("#productDetails_detailBullets_sections1");
-//		
-//		System.out.println(parsedData.text().substring(5, 15));
-		
-		
 		
 		try {
 			XMLFileProcessor.addContentToFile(Parser.getItemInfo(url));
