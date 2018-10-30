@@ -1,66 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
     <item>
-       <url>https://www.amazon.com/Nintendo-Classic-Mini-Console-xbox-one/dp/B01IFJEWTM/ref=pd_rhf_dp_s_cp_0_4?_encoding=UTF8&pd_rd_i=B01IFJEWTM&pd_rd_r=df90ec5d-282f-4b81-b8ea-f902fcca4c5e&pd_rd_w=Y1P0N&pd_rd_wg=Ys6nV&psc=1&refRID=FRBXY4DKSSZDQSM7X8S9</url>
-       <articleID>B01IFJEWTM</articleID>
-       <title>Nintendo NES Classic Mini EU Console</title>
-       <description>Nintendo NES console Classic Mini European version with 30 built-in games Installed Games: Balloon Fight - Bubble Bobble - Castlevania - Castlevania II: Simon's Quest - Donkey Kong - Donkey Kong Jr. - Double Dragon II: The Revenge - Dr. Mario - Excitebike - Final Fantasy - Galaga - Ghosts Goblins - Gradius Ice Climber - Kid Icarus - Kirby's Adventure - Mario Bros. - Mega Man 2 - Metroid - Ninja Gaiden - Pac-Man - Punch-Out !! Featuring Mr. Dream - StarTropics - SUPER C - Super Mario Bros. - Super Mario Bros. 2 - Super Mario Bros. 3 - Tecmo Bowl - The Legend of Zelda - Zelda II: The Adventure of Link Includes 1 joystick Nintendo Mini Classic: NES (Classic Controller and Classic Controller Pro Wii compatible), 1 HDMI Cable, 1 USB power cable (to power the console, the USB cable must be connected to an AC adapter not included) Does not include: Commemorative poster, USB plug.</description>
-       <price>$ 67 58</price>
+       <url>src/info/sjd/content/Amazon3.html</url>
+       <articleID>B0725GZQFZ</articleID>
+       <title>Edifier S2000pro Powered Bluetooth Bookshelf Speakers - Near-Field Active Studio Monitor Speaker with Wireless and Optical Input</title>
+       <description>AUDIOPHILE COMPONENTS - Built with flat diaphragm tweeters and 5.5 inch woofers, the S2000pro represents the top of the line powered speakers for home or studio useBLUETOOTH WIRELESS - BT v4.0 with aptX decoder makes playing high fidelity audio from your mobile devices at ease.OPTICAL/COAXIAL INPUTS - Connect S2000pro via toslink or spdif connection for lossless digital audio streaming. AUX inputs via dual RCA or dual XLR ports at the back.INCLUDES REMOTE - A large remote control with clearly labeled buttons is included for convenience.2 YEAR WARRANTY IN USA AND CANADA - S2000pro is proudly designed and manufactured by Edifier. The entire system is back with a 2 year warranty.</description>
+       <price>$399.99</price>
+       <rating>4.6</rating>
+       <availability>In Stock.</availability>
+    </item>
+    <item>
+       <url>src/info/sjd/content/Amazon.html</url>
+       <articleID>B078WRSHV4</articleID>
+       <title>LG gram Thin and Light Laptop - 15.6" Full HD IPS Display, Intel Core i5 (8th Gen), 8GB RAM, 256GB SSD, Back-lit Keyboard - Dark Silver � 15Z980-U.AAS5U1</title>
+       <description>15.6" Full HD IPS LCD ScreenWindows 10 Home. Lithium Battery Energy Content (in Watt Hours)-72Wh. Battery Cell Type-4 cell lithium ion(polymer)72Wh Lithium Battery (up to 19 hours* - MobileMark 2014 Standard)Intel 8th Generation i5-8250U CPU8GB RAM & 256GB SSD</description>
+       <price>$1,147.00</price>
        <rating>4.1</rating>
        <availability>In Stock.</availability>
     </item>
     <item>
-       <url>https://www.amazon.com/Nintendo-Entertainment-System-NES-Classic/dp/B01IFJBQ1E/ref=pd_sbs_63_1?_encoding=UTF8&pd_rd_i=B01IFJBQ1E&pd_rd_r=5f37667f-c813-11e8-a791-5df8b5defc43&pd_rd_w=pLg2P&pd_rd_wg=MR7zG&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=RK94YN39JS35AQVPG67B&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=RK94YN39JS35AQVPG67B</url>
-       <articleID>B01IFJBQ1E</articleID>
-       <title>Nintendo Entertainment System: NES Classic Edition</title>
-       <description>The Nintendo Entertainment System: NES Classic Edition has the original look and feel, only smaller, sleeker, and pre-loaded with 30 games The pre-installed games include: Super Mario Bros., Donkey Kong, The Legend of Zelda, PAC-MAN, Dr. Mario, Mega Man, Final Fantasy, and dozens more Includes a standard HDMI cable Comes with one old-school, grey-colored NES Classic Controller and an AC adapter Also compatible with Classic Controller and Classic Controller Pro. Additional NES Classic Controllers will be sold separately</description>
-       <price>$ 59 99</price>
-       <rating>4.2</rating>
-       <availability>In stock on October 13, 2018. Order it now.</availability>
+       <url>src/info/sjd/content/Amazon2.html</url>
+       <articleID>B07GX612JC</articleID>
+       <title>Lenovo Ideapad 15.6" Pro Build Laptop 2018 Latest Computer, Intel Celeron N4100 up to 2.4GHz, DVD, WiFi, Bluetooth, Windows 10, Gray, Choose Ram and HDD/SSD Size</title>
+       <description>15.6" display, 1366 x 768 HD resolution, Intel Celeron processor N4100 4MB Cache up to 2.4GHzIntel UHD Graphics 600, Window 10 Operation System, Choose Ram and HDD/SSD Size, Solid State Drive(SSD) will improve the overall performance of the laptopWeighs 4.85 lbs. and measures 0.9" thin, featuring HDMI output Built-in media reader and BluetoothNext-generation wireless connectivity Connects to your network or hotspots on all current Wi-Fi standards. Connect to a Wireless-AC router for speed nearly 3x faster than Wireless-N.Built-in media reader for simple photo transfer, 30-days trial of Microsoft Office 365.</description>
+       <price>$316.99</price>
+       <rating>3.5</rating>
+       <availability>null</availability>
     </item>
     <item>
-       <url>https://www.amazon.com/Nintendo-Classic-Mini-Console-xbox-one/dp/B01IFJEWTM/ref=pd_rhf_dp_s_cp_0_4?_encoding=UTF8&pd_rd_i=B01IFJEWTM&pd_rd_r=df90ec5d-282f-4b81-b8ea-f902fcca4c5e&pd_rd_w=Y1P0N&pd_rd_wg=Ys6nV&psc=1&refRID=FRBXY4DKSSZDQSM7X8S9</url>
-       <articleID>B01IFJEWTM</articleID>
-       <title>Nintendo NES Classic Mini EU Console</title>
-       <description>Nintendo NES console Classic Mini European version with 30 built-in games Installed Games: Balloon Fight - Bubble Bobble - Castlevania - Castlevania II: Simon's Quest - Donkey Kong - Donkey Kong Jr. - Double Dragon II: The Revenge - Dr. Mario - Excitebike - Final Fantasy - Galaga - Ghosts Goblins - Gradius Ice Climber - Kid Icarus - Kirby's Adventure - Mario Bros. - Mega Man 2 - Metroid - Ninja Gaiden - Pac-Man - Punch-Out !! Featuring Mr. Dream - StarTropics - SUPER C - Super Mario Bros. - Super Mario Bros. 2 - Super Mario Bros. 3 - Tecmo Bowl - The Legend of Zelda - Zelda II: The Adventure of Link Includes 1 joystick Nintendo Mini Classic: NES (Classic Controller and Classic Controller Pro Wii compatible), 1 HDMI Cable, 1 USB power cable (to power the console, the USB cable must be connected to an AC adapter not included) Does not include: Commemorative poster, USB plug.</description>
-       <price>$ 67 58</price>
+       <url>https://www.amazon.com/LG-gram-Thin-Light-Laptop/dp/B078WRSHV4/ref=sr_1_82_sspa</url>
+       <articleID>B078WRSHV4</articleID>
+       <title>LG gram Thin and Light Laptop - 15.6" Full HD IPS Display, Intel Core i5 (8th Gen), 8GB RAM, 256GB SSD, Back-lit Keyboard - Dark Silver � 15Z980-U.AAS5U1</title>
+       <description>15.6" Full HD IPS LCD ScreenWindows 10 Home. Lithium Battery Energy Content (in Watt Hours)-72Wh. Battery Cell Type-4 cell lithium ion(polymer)72Wh Lithium Battery (up to 19 hours* - MobileMark 2014 Standard)Intel 8th Generation i5-8250U CPU8GB RAM & 256GB SSD</description>
+       <price>$1,147.00</price>
        <rating>4.1</rating>
        <availability>In Stock.</availability>
     </item>
     <item>
-       <url>https://www.amazon.com/STOCK-Office-Inking-Rubber-Stamp/dp/B076P84WGS/ref=olp_product_details?_encoding=UTF8&me=&qid=1538747416&sr=8-2-spons</url>
-       <articleID>B076P84WGS</articleID>
-       <title>OUT OF STOCK Office Self Inking Rubber Stamp - Red Ink (A-5338)</title>
-       <description>This fits your�. Make sure this fits by entering your model number. Self inking stamp Impression area: 9/16� x 1-1/2� Ink color: Red Up to 5,000 impressions per pad before re-inking 2000 Plus series high quality and most trusted stamp mount guaranteed to provide the best quality and clear impression</description>
-       <price>$11.99</price>
-       <rating></rating>
+       <url>https://www.amazon.com/Logitech-G430-Headphone-Cable-Sports-Performance/dp/B00CQ35C1Q/</url>
+       <articleID>B00CQ35C1Q</articleID>
+       <title>Logitech G430 7.1 DTS Headphone: X and Dolby Surround Sound Gaming Headset for PC, Playstation 4 � On-Cable Controls � Sports-Performance Ear Pads � Rotating Ear Cups � Light Weight Design</title>
+       <description>DTS Headphone: X and Dolby 7.1 surround sound: Experience an immersive 360-degree sound field that lets you hear what you can't seeBuilt for comfort: Lightweight design and soft sport cloth ear cups with 90-degree swivel for maximum comfort and a personalized fitFolding, noise-cancelling boom mic: Reduces background noise for clear voice pick up and rotates up and out of the wayImpedance: 32 Ohms . On-cable sound controls: Volume dial and mute switch are close at hand for quick audio adjustmentsCompatibility: Works with PS4 and Windows 10, Windows 8, Windows 7 or Windows Vista computers. Sensitivity: 90dB SPL/mWHeadphone- Frequency response: 20Hz-20KHz. Microphone Pickup pattern: Cardioid (Unidirectional)-Frequency response: 50-20KHz. Please Note: Kindly refer the User Guide before use</description>
+       <price>$35.99</price>
+       <rating>3.7</rating>
        <availability>In Stock.</availability>
     </item>
     <item>
-       <url>https://www.amazon.com/STOCK-Office-Inking-Rubber-Stamp/dp/B076P84WGS/ref=olp_product_details?_encoding=UTF8&me=&qid=1538747416&sr=8-2-spons</url>
-       <articleID>B076P84WGS</articleID>
-       <title>OUT OF STOCK Office Self Inking Rubber Stamp - Red Ink (A-5338)</title>
-       <description>This fits your�. Make sure this fits by entering your model number. Self inking stamp Impression area: 9/16� x 1-1/2� Ink color: Red Up to 5,000 impressions per pad before re-inking 2000 Plus series high quality and most trusted stamp mount guaranteed to provide the best quality and clear impression</description>
-       <price>$11.99</price>
-       <rating>No Rating</rating>
+       <url>https://www.amazon.com/Logitech-G430-Headphone-Cable-Sports-Performance/dp/B00CQ35C1Q/</url>
+       <articleID>B00CQ35C1Q</articleID>
+       <title>Logitech G430 7.1 DTS Headphone: X and Dolby Surround Sound Gaming Headset for PC, Playstation 4 � On-Cable Controls � Sports-Performance Ear Pads � Rotating Ear Cups � Light Weight Design</title>
+       <description>DTS Headphone: X and Dolby 7.1 surround sound: Experience an immersive 360-degree sound field that lets you hear what you can't seeBuilt for comfort: Lightweight design and soft sport cloth ear cups with 90-degree swivel for maximum comfort and a personalized fitFolding, noise-cancelling boom mic: Reduces background noise for clear voice pick up and rotates up and out of the wayImpedance: 32 Ohms . On-cable sound controls: Volume dial and mute switch are close at hand for quick audio adjustmentsCompatibility: Works with PS4 and Windows 10, Windows 8, Windows 7 or Windows Vista computers. Sensitivity: 90dB SPL/mWHeadphone- Frequency response: 20Hz-20KHz. Microphone Pickup pattern: Cardioid (Unidirectional)-Frequency response: 50-20KHz. Please Note: Kindly refer the User Guide before use</description>
+       <price>$35.99</price>
+       <rating>3.7</rating>
        <availability>In Stock.</availability>
     </item>
     <item>
-       <url>https://www.amazon.com/STOCK-Office-Inking-Rubber-Stamp/dp/B076P84WGS/ref=olp_product_details?_encoding=UTF8&me=&qid=1538747416&sr=8-2-spons</url>
-       <articleID>B076P84WGS</articleID>
-       <title>OUT OF STOCK Office Self Inking Rubber Stamp - Red Ink (A-5338)</title>
-       <description>This fits your�. Make sure this fits by entering your model number. Self inking stamp Impression area: 9/16� x 1-1/2� Ink color: Red Up to 5,000 impressions per pad before re-inking 2000 Plus series high quality and most trusted stamp mount guaranteed to provide the best quality and clear impression</description>
-       <price>$11.99</price>
-       <rating>No Rating</rating>
-       <availability>In Stock.</availability>
+       <url>https://www.amazon.com/VicTsing-Extended-31-5×15-75×0-12-Computer-Water-Resistant/dp/B0794WBPHK/</url>
+       <articleID>B0794WBPHK</articleID>
+       <title>VicTsing Extended Gaming Mouse Pad, Thick Large (31.5×15.75×0.12 inch) Computer Keyboard Mousepad Mouse Mat, Water-Resistant, Non-Slip Base, Durable Stitched Edges, Ideal for Both Gaming</title>
+       <description>✔【Large and Perfect Size.】The size of 800×400×2.5mm(31.5×15.75×0.12inch) will fit your desktop perfectly and provide perfect movement space. Applies to all types of keyboards and mice.✔【Ultra-smooth Surface. 】Designed with superfine fiber braided material, the smooth surface allows more accurate mouse movement. Optimized for fast movement while maintaining excellent speed and control during your work or game.✔【Non-slip Rubber Base.】 Dense slip-resistant shading can firmly grip the desktop to provide stable operation of the mouse and keyboard. It can effectively prevent the mouse and keyboard from sliding and moving.✔【Water Resistant Coating. 】Effectively prevent accidental damage from spilled liquid. When liquid splashes on the pad, it will form into water drops and slide down. It’s easy to clean and will not delay your work or game.✔【Durable and Comfortable Material. 】Adopting high elasticity natural rubber material, this mouse pad will provide you with the maximum comfort using experience. The durable stitched edges protect the pad from wear, deformation and degum</description>
+       <price>$10.99</price>
+       <rating>4.9</rating>
+       <availability>null</availability>
     </item>
     <item>
-       <url>https://www.amazon.com/STOCK-Office-Inking-Rubber-Stamp/dp/B076P84WGS/ref=olp_product_details?_encoding=UTF8&me=&qid=1538747416&sr=8-2-spons</url>
-       <articleID>B076P84WGS</articleID>
-       <title>OUT OF STOCK Office Self Inking Rubber Stamp - Red Ink (A-5338)</title>
-       <description>This fits your�. Make sure this fits by entering your model number. Self inking stamp Impression area: 9/16� x 1-1/2� Ink color: Red Up to 5,000 impressions per pad before re-inking 2000 Plus series high quality and most trusted stamp mount guaranteed to provide the best quality and clear impression</description>
-       <price>$11.99</price>
-       <rating>No Rating</rating>
+       <url>https://www.amazon.com/Tascam-Cassette-Recorders-Duplicators-202MKVII/dp/B07DKRZ4QB/</url>
+       <articleID>B07DKRZ4QB</articleID>
+       <title>Tascam Studio Cassette Recorders and Duplicators (202MKVII)</title>
+       <description>Dual cassette deck for playing, dubbing, or recording 1 or 2 cassettesUSB output for archiving a cassette to an external digital recorderMicrophone input with level control can be mixed with cassette 1 and total mix recorded to cassette 2; convenient for karaoke and announcementsHeadphone jack output with separate level control for audio verification or private monitoring"SPECIAL" playback mode that allows you to cue the next song on a tape by monitoring the sound with headphones while another tape is playing</description>
+       <price>$511.09</price>
+       <rating>null</rating>
+       <availability>Only 5 left in stock (more on the way).</availability>
+    </item>
+    <item>
+       <url>https://www.amazon.com/Yamaha-AG03-3-Channel-Mixer-Microphone/dp/B00TY8JE60/</url>
+       <articleID>B00TY8JE60</articleID>
+       <title>Yamaha AG03 3-Channel Mixer / 1 Microphone</title>
+       <description>Multi-purpose 3-channel mixer and high resolution (24-bit 192 kHz) 2-track audio recording /playback computer interface (MAC or PC).Flexible LOOPBACK feature - perfect for live recording or webcasting.Easy control and pro sound with 1-TOUCH COMP/EQ, EFFECT and AMP SIM processing.iPad (2 or later) connectivity via Apple iPad Camera Connection Kit (requires external USB power supply)Includes Cubase Al (downloadable version) recording/midi-sequencing software.</description>
+       <price>$149.99</price>
+       <rating>4.1</rating>
        <availability>In Stock.</availability>
     </item>
 </items>

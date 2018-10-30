@@ -1,14 +1,10 @@
 package info.sjd;
 
-import org.jsoup.Jsoup;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.WebDriver;
-import org.jsoup.nodes.Document;
-import org.jsoup.select.Elements;
 
-import info.sjd.entity.Item;
+//import org.openqa.selenium.chrome.ChromeDriver;
+//import org.openqa.selenium.WebDriver;
 import info.sjd.exception.ExceptionSJD;
-import info.sjd.parser.Parser;
+import info.sjd.parser.AmazonParser;
 import info.sjd.processor.XMLFileProcessor;
 
 public class AppRunner {
@@ -16,10 +12,10 @@ public class AppRunner {
 
 
 
-		String url = "https://www.amazon.com/STOCK-Office-Inking-Rubber-Stamp/dp/B076P84WGS/ref=olp_product_details?_encoding=UTF8&me=&qid=1538747416&sr=8-2-spons";
-		
+		String url = "https://www.amazon.com/Yamaha-AG03-3-Channel-Mixer-Microphone/dp/B00TY8JE60/";
+
 		try {
-			XMLFileProcessor.addContentToFile(Parser.getItemInfo(url));
+			XMLFileProcessor.addContentToFile(AmazonParser.getItemInfo(url));
 		} catch (ExceptionSJD e) {
 			e.printStackTrace();
 		}
